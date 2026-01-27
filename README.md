@@ -35,8 +35,7 @@ TSA/
 │   │   └── index.js
 │   ├── package.json
 │   └── README.md
-├── demo/           # Screen recording
-│   └── demo.mp4
+│ 
 └── README.md
 ```
 
