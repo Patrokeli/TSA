@@ -1,4 +1,4 @@
-# TANZANITE SKILLS ACADEMY – Student Management System
+# TSA – Student Management System
 
 This is a simple **Student Management System** built for the Full-Stack JavaScript Developer task.
 
