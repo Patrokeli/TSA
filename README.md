@@ -117,7 +117,7 @@ Frontend runs on: **[http://localhost:3000](http://localhost:3000)**
 | DELETE | /:id     | Delete a student  |
 
 
-
+![image alt](https://github.com/Patrokeli/TSA/blob/ba9abdd1e1d32b8eeafc60c63c1cd4913a7504d7/frontend/public/ff.PNG)
 
 
 
